@@ -24,13 +24,15 @@ inquirer.prompt([
             name: "term",
             message: `Enter a ${searchCat} name to get all concert details`,
             validate: async (input) => {
-                if (!input) {
+                if (!input && `${searchCat}` == "Band") {
                     return `${searchCat} name cannot be blank`;
                 }
                 //console.log(searchCat);
                 var search = new Search(input);
                 if (searchCat == "Band/Artist") {
                     search.getBand();
+                } else if (searchCat == "Song") {
+                    search.getSong();
                 } else if (searchCat == "Movie") {
                     search.getMovie();
                 }
@@ -89,6 +91,28 @@ Date of the event: ${eventDate}
 
     },
         this.getMovie = function () {
+            this.keyword = (this.keyword) ? this.keyword : "Mr. Nobody";
+            var url = "https://www.omdbapi.com/?t=" + this.keyword + "&y=&plot=short&apikey=trilogy";
+            axios.get(url).then(
+                function (response) {
+                    var movieResp = response.data;
+                    //console.log(movieArr);
+                    console.log(`
+-----------------------------------------------------------------------------------------------                    
+Title of the movie: ${movieResp.Title}
+Year the movie came out: ${movieResp.Year}
+IMDB Rating of the movie: ${movieResp.imdbRating}
+Rotten Tomatoes Rating of the movie: ${movieResp.Ratings[1].Value}
+Country where the movie was produced: ${movieResp.Country}
+Language of the movie: ${movieResp.Language}
+Plot of the movie: ${movieResp.Plot}
+Actors in the movie: ${movieResp.Actors}
+-----------------------------------------------------------------------------------------------`);
+                })
+                .catch(function (error) {
+                    // Something happened in setting up the request that triggered an Error
+                    console.log("\nThere was an error processing the request");
+                });
 
         }
 }
