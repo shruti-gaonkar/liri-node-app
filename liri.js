@@ -17,7 +17,11 @@ inquirer.prompt([
     }
 ]).then(function (respCat) {
     var searchCat = respCat.category;
-
+    if (searchCat == "Ask Liri") {
+        var search = new Search();
+        search.askLiri();
+        return;
+    }
     inquirer.prompt([
         {
             type: "input",
@@ -135,7 +139,33 @@ Album: ${tracksResp[i].album.name}
             console.log(err);
         });
     };
-
+    this.askLiri = function () {
+        let dataArr = readFile("random.txt");
+        //console.log(dataArr);
+        this.keyword = dataArr[1];
+        var searchCat = dataArr[0];
+        //console.log(dataArr[0]);
+        if (searchCat == "Band/Artist") {
+            this.getBand();
+        } else if (searchCat == "Song") {
+            this.getSong();
+        } else if (searchCat == "Movie") {
+            this.getMovie();
+        }
+    }
 
 };
 
+function readFile(filename) {
+    try {
+        const data = fs.readFileSync(filename, 'utf8');
+
+        // Then split it by commas (to make it more readable)
+        let dataArr = data.split(",");
+
+        return dataArr;
+    } catch (err) {
+        console.error(err);
+    }
+
+}
