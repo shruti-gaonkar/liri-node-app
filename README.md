@@ -1,5 +1,8 @@
 # liri-node-app
 
+Technologies Used:
+Node
+
 Description
 
 LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives back data
