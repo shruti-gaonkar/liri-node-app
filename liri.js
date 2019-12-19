@@ -31,7 +31,6 @@ inquirer.prompt([
                 if (!input && `${searchCat}` == "Band") {
                     return `${searchCat} name cannot be blank`;
                 }
-                //console.log(searchCat);
                 var search = new Search(input);
                 if (searchCat == "Band/Artist") {
                     search.getBand();
@@ -43,63 +42,11 @@ inquirer.prompt([
             }
         }
     ])
-    //search = null;
-    /*.then(function (response) {
-        var searchTerm = response.term;
-        if (searchCat == "Band") {
-            var search = new Search(searchTerm);
-            search.getBand();
-        }
-    });*/
 });
 
 function Search(keyword) {
     this.keyword = keyword;
-    this.getBand = function () {
-        var url = "https://rest.bandsintown.com/artists/" + this.keyword + "/events?app_id=codingbootcamp";
-        axios.get(url).then(function (response) {
-            var bandArr = response.data;
-            let output, output1;
-            output1 = "\n***************************************\n";
-            output1 += "Band: " + keyword + "\n";
-            output1 += "---------------------------------------\n";
-            for (var i = 0; i < bandArr.length; i++) {
-                var eventDate = moment(bandArr[i].datetime).format('MM/DD/YYYY');
-                output = `
-Name of the venue: ${bandArr[i].venue.name}
-Venue location: ${bandArr[i].venue.city}, ${bandArr[i].venue.country}
-Date of the event: ${eventDate}
----------------------------------------`;
-                output1 += output;
-                console.log(output);
-            }
-            writeFile(output1);
-        }).catch(function (error) {
-            if (error.response) {
-                // The request was made and the server responded with a status code
-                // that falls out of the range of 2xx
-                //console.log("---------------Data---------------");
-                if (error.response.data.errorMessage.includes('[NotFound]')) {
-                    console.log("\nThe artist was not found");
-                } else {
-                    console.log(error.response.data);
-                }
-                //console.log(error.response.data);
-                //console.log("---------------Status---------------");
-                //console.log(error.response.status);
-                //console.log("---------------Status---------------");
-                //console.log(error.response.headers);
-            } else if (error.request) {
-                // The request was made but no response was received
-                // `error.request` is an object that comes back with details pertaining to the error that occurred.
-                console.log(error.request);
-            } else {
-                // Something happened in setting up the request that triggered an Error
-                console.log("Error", error.message);
-            }
-            //console.log(error.config);
-        });
-    };
+
     this.getMovie = function () {
         this.keyword = (this.keyword) ? this.keyword : "Mr. Nobody";
         var url = "https://www.omdbapi.com/?t=" + this.keyword + "&y=&plot=short&apikey=trilogy";
@@ -177,6 +124,47 @@ Album: ${tracksResp[i].album.name}
         }
     }
 
+};
+
+
+Search.prototype.getBand = function () {
+    let keyword = this.keyword;
+    var url = "https://rest.bandsintown.com/artists/" + keyword + "/events?app_id=codingbootcamp";
+    axios.get(url).then(function (response) {
+        var bandArr = response.data;
+        let output, output1;
+        output1 = "\n***************************************\n";
+        output1 += "Band: " + keyword + "\n";
+        output1 += "---------------------------------------\n";
+        for (var i = 0; i < bandArr.length; i++) {
+            var eventDate = moment(bandArr[i].datetime).format('MM/DD/YYYY');
+            output = `
+Name of the venue: ${bandArr[i].venue.name}
+Venue location: ${bandArr[i].venue.city}, ${bandArr[i].venue.country}
+Date of the event: ${eventDate}
+---------------------------------------`;
+            output1 += output;
+            console.log(output);
+        }
+        writeFile(output1);
+    }).catch(function (error) {
+        if (error.response) {
+            // The request was made and the server responded with a status code
+            // that falls out of the range of 2xx
+            if (error.response.data.errorMessage.includes('[NotFound]')) {
+                console.log("\nThe artist was not found");
+            } else {
+                console.log(error.response.data);
+            }
+        } else if (error.request) {
+            // The request was made but no response was received
+            // `error.request` is an object that comes back with details pertaining to the error that occurred.
+            console.log(error.request);
+        } else {
+            // Something happened in setting up the request that triggered an Error
+            console.log("Error", error.message);
+        }
+    });
 };
 
 function readFile(filename) {
