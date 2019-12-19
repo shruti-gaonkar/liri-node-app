@@ -59,13 +59,21 @@ function Search(keyword) {
         var url = "https://rest.bandsintown.com/artists/" + this.keyword + "/events?app_id=codingbootcamp";
         axios.get(url).then(function (response) {
             var bandArr = response.data;
+            let output, output1;
+            output1 = "\n***************************************\n";
+            output1 += "Band: " + keyword + "\n";
+            output1 += "---------------------------------------\n";
             for (var i = 0; i < bandArr.length; i++) {
                 var eventDate = moment(bandArr[i].datetime).format('MM/DD/YYYY');
-                console.log(`Name of the venue: ${bandArr[i].venue.name}
+                output = `
+Name of the venue: ${bandArr[i].venue.name}
 Venue location: ${bandArr[i].venue.city}, ${bandArr[i].venue.country}
 Date of the event: ${eventDate}
- ---------------------------------------`);
+---------------------------------------`;
+                output1 += output;
+                console.log(output);
             }
+            writeFile(output1);
         }).catch(function (error) {
             if (error.response) {
                 // The request was made and the server responded with a status code
@@ -99,6 +107,7 @@ Date of the event: ${eventDate}
             function (response) {
                 var movieResp = response.data;
                 //console.log(movieArr);
+
                 console.log(`
 -----------------------------------------------------------------------------------------------                    
 Title of the movie: ${movieResp.Title}
@@ -110,6 +119,7 @@ Language of the movie: ${movieResp.Language}
 Plot of the movie: ${movieResp.Plot}
 Actors in the movie: ${movieResp.Actors}
 -----------------------------------------------------------------------------------------------`);
+
             }).catch(function (error) {
                 // Something happened in setting up the request that triggered an Error
                 console.log("\nThere was an error processing the request");
@@ -167,5 +177,18 @@ function readFile(filename) {
     } catch (err) {
         console.error(err);
     }
+}
 
+function writeFile(text) {
+    fs.appendFile("log.txt", text, function (err) {
+
+        // If the code experiences any errors it will log the error to the console.
+        if (err) {
+            return console.log(err);
+        }
+
+        // Otherwise, it will print: "movies.txt was updated!"
+        //console.log("movies.txt was updated!");
+
+    });
 }

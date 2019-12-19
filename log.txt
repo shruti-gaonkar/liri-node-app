@@ -1,0 +1,725 @@
+***************************************
+Band: celine dion
+---------------------------------------
+
+Name of the venue: VyStar Veterans Memorial Arena
+Venue location: Jacksonville, United States
+Date of the event: 01/08/2020
+---------------------------------------
+Name of the venue: State Farm Arena
+Venue location: Atlanta, United States
+Date of the event: 01/11/2020
+---------------------------------------
+Name of the venue: Bridgestone Arena
+Venue location: Nashville, United States
+Date of the event: 01/13/2020
+---------------------------------------
+Name of the venue: Amalie Arena
+Venue location: Tampa, United States
+Date of the event: 01/15/2020
+---------------------------------------
+Name of the venue: AmericanAirlines Arena
+Venue location: Miami, United States
+Date of the event: 01/17/2020
+---------------------------------------
+Name of the venue: AmericanAirlines Arena
+Venue location: Miami, United States
+Date of the event: 01/18/2020
+---------------------------------------
+Name of the venue: Spectrum Center
+Venue location: Charlotte, United States
+Date of the event: 01/21/2020
+---------------------------------------
+Name of the venue: AT&T Center
+Venue location: San Antonio, United States
+Date of the event: 01/30/2020
+---------------------------------------
+Name of the venue: Toyota Center
+Venue location: Houston, United States
+Date of the event: 02/01/2020
+---------------------------------------
+Name of the venue: American Airlines Center
+Venue location: Dallas, United States
+Date of the event: 02/03/2020
+---------------------------------------
+Name of the venue: BOK Center
+Venue location: Tulsa, United States
+Date of the event: 02/05/2020
+---------------------------------------
+Name of the venue: Smoothie King Center
+Venue location: New Orleans, United States
+Date of the event: 02/07/2020
+---------------------------------------
+Name of the venue: FedExForum
+Venue location: Memphis, United States
+Date of the event: 02/09/2020
+---------------------------------------
+Name of the venue: PNC Arena
+Venue location: Raleigh, United States
+Date of the event: 02/11/2020
+---------------------------------------
+Name of the venue: Bell Centre
+Venue location: Montreal, Canada
+Date of the event: 02/18/2020
+---------------------------------------
+Name of the venue: Bell Centre
+Venue location: Montreal, Canada
+Date of the event: 02/19/2020
+---------------------------------------
+Name of the venue: Boardwalk Hall
+Venue location: Atlantic City, United States
+Date of the event: 02/22/2020
+---------------------------------------
+Name of the venue: Royal Farms Arena (formerly Baltimore Arena)
+Venue location: Baltimore, United States
+Date of the event: 02/24/2020
+---------------------------------------
+Name of the venue: Wells Fargo Center
+Venue location: Philadelphia, United States
+Date of the event: 02/26/2020
+---------------------------------------
+Name of the venue: Barclays Center
+Venue location: Brooklyn, United States
+Date of the event: 02/28/2020
+---------------------------------------
+Name of the venue: Barclays Center
+Venue location: Brooklyn, United States
+Date of the event: 02/29/2020
+---------------------------------------
+Name of the venue: The New Coliseum
+Venue location: Uniondale, United States
+Date of the event: 03/03/2020
+---------------------------------------
+Name of the venue: Barclays Center
+Venue location: Brooklyn, United States
+Date of the event: 03/05/2020
+---------------------------------------
+Name of the venue: Prudential Center
+Venue location: Newark, United States
+Date of the event: 03/07/2020
+---------------------------------------
+Name of the venue: Prudential Center
+Venue location: Newark, United States
+Date of the event: 03/08/2020
+---------------------------------------
+Name of the venue: Capital One Arena
+Venue location: Washington, United States
+Date of the event: 03/11/2020
+---------------------------------------
+Name of the venue: PPG Paints Arena
+Venue location: Pittsburgh, United States
+Date of the event: 03/13/2020
+---------------------------------------
+Name of the venue: Pepsi Center
+Venue location: Denver, United States
+Date of the event: 03/24/2020
+---------------------------------------
+Name of the venue: Vivint Smart Home Arena
+Venue location: Salt Lake City, United States
+Date of the event: 03/26/2020
+---------------------------------------
+Name of the venue: Gila River Arena
+Venue location: Glendale, United States
+Date of the event: 03/29/2020
+---------------------------------------
+Name of the venue: Pechanga Arena San Diego
+Venue location: San Diego, United States
+Date of the event: 03/31/2020
+---------------------------------------
+Name of the venue: Staples Center
+Venue location: Los Angeles, United States
+Date of the event: 04/02/2020
+---------------------------------------
+Name of the venue: Staples Center
+Venue location: Los Angeles, United States
+Date of the event: 04/03/2020
+---------------------------------------
+Name of the venue: Golden 1 Center
+Venue location: Sacramento, United States
+Date of the event: 04/07/2020
+---------------------------------------
+Name of the venue: Oakland Arena
+Venue location: Oakland, United States
+Date of the event: 04/09/2020
+---------------------------------------
+Name of the venue: Chase Center
+Venue location: San Francisco, United States
+Date of the event: 04/10/2020
+---------------------------------------
+Name of the venue: Chase Center
+Venue location: San Francisco, United States
+Date of the event: 04/11/2020
+---------------------------------------
+Name of the venue: Moda Center
+Venue location: Portland, United States
+Date of the event: 04/13/2020
+---------------------------------------
+Name of the venue: Tacoma Dome
+Venue location: Tacoma, United States
+Date of the event: 04/15/2020
+---------------------------------------
+Name of the venue: Rogers Arena
+Venue location: Vancouver, Canada
+Date of the event: 04/17/2020
+---------------------------------------
+Name of the venue: Rogers Arena
+Venue location: Vancouver, Canada
+Date of the event: 04/18/2020
+---------------------------------------
+Name of the venue: Rogers Place
+Venue location: Edmonton, Canada
+Date of the event: 04/21/2020
+---------------------------------------
+Name of the venue: Rogers Place
+Venue location: Edmonton, Canada
+Date of the event: 04/22/2020
+---------------------------------------
+Name of the venue: Sasktel Centre
+Venue location: Saskatoon, Canada
+Date of the event: 04/25/2020
+---------------------------------------
+Name of the venue: Bell MTS Place
+Venue location: Winnipeg, Canada
+Date of the event: 04/27/2020
+---------------------------------------
+Name of the venue: O2 Arena
+Venue location: Prague, Czech Republic
+Date of the event: 05/21/2020
+---------------------------------------
+Name of the venue: Atlas Arena
+Venue location: Łódź, Poland
+Date of the event: 05/23/2020
+---------------------------------------
+Name of the venue: Tauron Arena Krakow
+Venue location: Kraków, Poland
+Date of the event: 05/25/2020
+---------------------------------------
+Name of the venue: Sportpaleis
+Venue location: Merksem, Belgium
+Date of the event: 05/28/2020
+---------------------------------------
+Name of the venue: Sportpaleis
+Venue location: Merksem, Belgium
+Date of the event: 05/30/2020
+---------------------------------------
+Name of the venue: Hallenstadion
+Venue location: Zürich, Switzerland
+Date of the event: 06/02/2020
+---------------------------------------
+Name of the venue: Hallenstadion
+Venue location: Zürich, Switzerland
+Date of the event: 06/03/2020
+---------------------------------------
+Name of the venue: ARENA ZAGREB
+Venue location: Zagreb, Croatia
+Date of the event: 06/05/2020
+---------------------------------------
+Name of the venue: Papp Laszlo Arena
+Venue location: Budapest, Hungary
+Date of the event: 06/07/2020
+---------------------------------------
+Name of the venue: Ziggo Dome
+Venue location: Amsterdam Zuidoost, Netherlands
+Date of the event: 06/10/2020
+---------------------------------------
+Name of the venue: Ziggo Dome
+Venue location: Amsterdam Zuidoost, Netherlands
+Date of the event: 06/12/2020
+---------------------------------------
+Name of the venue: Ziggo Dome
+Venue location: Amsterdam Zuidoost, Netherlands
+Date of the event: 06/13/2020
+---------------------------------------
+Name of the venue: Wiener Stadthalle - Halle D
+Venue location: Vienna, Austria
+Date of the event: 06/15/2020
+---------------------------------------
+Name of the venue: Olympiahalle
+Venue location: Munich, Germany
+Date of the event: 06/17/2020
+---------------------------------------
+Name of the venue: SAP Arena
+Venue location: Mannheim, Germany
+Date of the event: 06/19/2020
+---------------------------------------
+Name of the venue: Lanxess Arena
+Venue location: Cologne, Germany
+Date of the event: 06/21/2020
+---------------------------------------
+Name of the venue: Barclaycard Arena Hamburg
+Venue location: Hamburg, Germany
+Date of the event: 06/22/2020
+---------------------------------------
+Name of the venue: PARIS LA DEFENSE ARENA
+Venue location: Nanterre, France
+Date of the event: 06/26/2020
+---------------------------------------
+Name of the venue: PARIS LA DEFENSE ARENA
+Venue location: Nanterre, France
+Date of the event: 06/27/2020
+---------------------------------------
+Name of the venue: PARIS LA DEFENSE ARENA
+Venue location: Nanterre, France
+Date of the event: 06/30/2020
+---------------------------------------
+Name of the venue: PARIS LA DEFENSE ARENA
+Venue location: Nanterre, France
+Date of the event: 07/01/2020
+---------------------------------------
+Name of the venue: PARIS LA DEFENSE ARENA
+Venue location: Nanterre, France
+Date of the event: 07/03/2020
+---------------------------------------
+Name of the venue: PARIS LA DEFENSE ARENA
+Venue location: Nanterre, France
+Date of the event: 07/04/2020
+---------------------------------------
+Name of the venue: Plaine De L'asse
+Venue location: Noyon, France
+Date of the event: 07/20/2020
+---------------------------------------
+Name of the venue: Waldbühne Berlin
+Venue location: Berlin, Germany
+Date of the event: 07/22/2020
+---------------------------------------
+Name of the venue: Mura di Lucca - Viale Carducci
+Venue location: Lucca, Italy
+Date of the event: 07/25/2020
+---------------------------------------
+Name of the venue: National Stadium Bukarest
+Venue location: Bucharest, Romania
+Date of the event: 07/29/2020
+---------------------------------------
+Name of the venue: Hartwall Arena
+Venue location: Helsinki, Finland
+Date of the event: 08/24/2020
+---------------------------------------
+Name of the venue: Hartwall Arena
+Venue location: Helsinki, Finland
+Date of the event: 08/25/2020
+---------------------------------------
+Name of the venue: Telenor Arena
+Venue location: Oslo, Norway
+Date of the event: 08/28/2020
+---------------------------------------
+Name of the venue: Telenor Arena
+Venue location: Oslo, Norway
+Date of the event: 08/29/2020
+---------------------------------------
+Name of the venue: Royal Arena
+Venue location: Copenhagen, Denmark
+Date of the event: 08/31/2020
+---------------------------------------
+Name of the venue: Royal Arena
+Venue location: Copenhagen, Denmark
+Date of the event: 09/01/2020
+---------------------------------------
+Name of the venue: Manchester Arena
+Venue location: Manchester, United Kingdom
+Date of the event: 09/04/2020
+---------------------------------------
+Name of the venue: Manchester Arena
+Venue location: Manchester, United Kingdom
+Date of the event: 09/05/2020
+---------------------------------------
+Name of the venue: Arena Birmingham
+Venue location: Birmingham, United Kingdom
+Date of the event: 09/08/2020
+---------------------------------------
+Name of the venue: Arena Birmingham
+Venue location: Birmingham, United Kingdom
+Date of the event: 09/09/2020
+---------------------------------------
+Name of the venue: The SSE Hydro
+Venue location: Glasgow, United Kingdom
+Date of the event: 09/11/2020
+---------------------------------------
+Name of the venue: The SSE Hydro
+Venue location: Glasgow, United Kingdom
+Date of the event: 09/12/2020
+---------------------------------------
+Name of the venue: 3Arena
+Venue location: Dublin, Ireland
+Date of the event: 09/14/2020
+---------------------------------------
+Name of the venue: 3Arena
+Venue location: Dublin, Ireland
+Date of the event: 09/15/2020
+---------------------------------------
+Name of the venue: The O2
+Venue location: London, United Kingdom
+Date of the event: 09/17/2020
+---------------------------------------
+Name of the venue: The O2
+Venue location: London, United Kingdom
+Date of the event: 09/18/2020
+---------------------------------------***************************************
+Band: celine dion
+---------------------------------------
+
+Name of the venue: VyStar Veterans Memorial Arena
+Venue location: Jacksonville, United States
+Date of the event: 01/08/2020
+---------------------------------------
+Name of the venue: State Farm Arena
+Venue location: Atlanta, United States
+Date of the event: 01/11/2020
+---------------------------------------
+Name of the venue: Bridgestone Arena
+Venue location: Nashville, United States
+Date of the event: 01/13/2020
+---------------------------------------
+Name of the venue: Amalie Arena
+Venue location: Tampa, United States
+Date of the event: 01/15/2020
+---------------------------------------
+Name of the venue: AmericanAirlines Arena
+Venue location: Miami, United States
+Date of the event: 01/17/2020
+---------------------------------------
+Name of the venue: AmericanAirlines Arena
+Venue location: Miami, United States
+Date of the event: 01/18/2020
+---------------------------------------
+Name of the venue: Spectrum Center
+Venue location: Charlotte, United States
+Date of the event: 01/21/2020
+---------------------------------------
+Name of the venue: AT&T Center
+Venue location: San Antonio, United States
+Date of the event: 01/30/2020
+---------------------------------------
+Name of the venue: Toyota Center
+Venue location: Houston, United States
+Date of the event: 02/01/2020
+---------------------------------------
+Name of the venue: American Airlines Center
+Venue location: Dallas, United States
+Date of the event: 02/03/2020
+---------------------------------------
+Name of the venue: BOK Center
+Venue location: Tulsa, United States
+Date of the event: 02/05/2020
+---------------------------------------
+Name of the venue: Smoothie King Center
+Venue location: New Orleans, United States
+Date of the event: 02/07/2020
+---------------------------------------
+Name of the venue: FedExForum
+Venue location: Memphis, United States
+Date of the event: 02/09/2020
+---------------------------------------
+Name of the venue: PNC Arena
+Venue location: Raleigh, United States
+Date of the event: 02/11/2020
+---------------------------------------
+Name of the venue: Bell Centre
+Venue location: Montreal, Canada
+Date of the event: 02/18/2020
+---------------------------------------
+Name of the venue: Bell Centre
+Venue location: Montreal, Canada
+Date of the event: 02/19/2020
+---------------------------------------
+Name of the venue: Boardwalk Hall
+Venue location: Atlantic City, United States
+Date of the event: 02/22/2020
+---------------------------------------
+Name of the venue: Royal Farms Arena (formerly Baltimore Arena)
+Venue location: Baltimore, United States
+Date of the event: 02/24/2020
+---------------------------------------
+Name of the venue: Wells Fargo Center
+Venue location: Philadelphia, United States
+Date of the event: 02/26/2020
+---------------------------------------
+Name of the venue: Barclays Center
+Venue location: Brooklyn, United States
+Date of the event: 02/28/2020
+---------------------------------------
+Name of the venue: Barclays Center
+Venue location: Brooklyn, United States
+Date of the event: 02/29/2020
+---------------------------------------
+Name of the venue: The New Coliseum
+Venue location: Uniondale, United States
+Date of the event: 03/03/2020
+---------------------------------------
+Name of the venue: Barclays Center
+Venue location: Brooklyn, United States
+Date of the event: 03/05/2020
+---------------------------------------
+Name of the venue: Prudential Center
+Venue location: Newark, United States
+Date of the event: 03/07/2020
+---------------------------------------
+Name of the venue: Prudential Center
+Venue location: Newark, United States
+Date of the event: 03/08/2020
+---------------------------------------
+Name of the venue: Capital One Arena
+Venue location: Washington, United States
+Date of the event: 03/11/2020
+---------------------------------------
+Name of the venue: PPG Paints Arena
+Venue location: Pittsburgh, United States
+Date of the event: 03/13/2020
+---------------------------------------
+Name of the venue: Pepsi Center
+Venue location: Denver, United States
+Date of the event: 03/24/2020
+---------------------------------------
+Name of the venue: Vivint Smart Home Arena
+Venue location: Salt Lake City, United States
+Date of the event: 03/26/2020
+---------------------------------------
+Name of the venue: Gila River Arena
+Venue location: Glendale, United States
+Date of the event: 03/29/2020
+---------------------------------------
+Name of the venue: Pechanga Arena San Diego
+Venue location: San Diego, United States
+Date of the event: 03/31/2020
+---------------------------------------
+Name of the venue: Staples Center
+Venue location: Los Angeles, United States
+Date of the event: 04/02/2020
+---------------------------------------
+Name of the venue: Staples Center
+Venue location: Los Angeles, United States
+Date of the event: 04/03/2020
+---------------------------------------
+Name of the venue: Golden 1 Center
+Venue location: Sacramento, United States
+Date of the event: 04/07/2020
+---------------------------------------
+Name of the venue: Oakland Arena
+Venue location: Oakland, United States
+Date of the event: 04/09/2020
+---------------------------------------
+Name of the venue: Chase Center
+Venue location: San Francisco, United States
+Date of the event: 04/10/2020
+---------------------------------------
+Name of the venue: Chase Center
+Venue location: San Francisco, United States
+Date of the event: 04/11/2020
+---------------------------------------
+Name of the venue: Moda Center
+Venue location: Portland, United States
+Date of the event: 04/13/2020
+---------------------------------------
+Name of the venue: Tacoma Dome
+Venue location: Tacoma, United States
+Date of the event: 04/15/2020
+---------------------------------------
+Name of the venue: Rogers Arena
+Venue location: Vancouver, Canada
+Date of the event: 04/17/2020
+---------------------------------------
+Name of the venue: Rogers Arena
+Venue location: Vancouver, Canada
+Date of the event: 04/18/2020
+---------------------------------------
+Name of the venue: Rogers Place
+Venue location: Edmonton, Canada
+Date of the event: 04/21/2020
+---------------------------------------
+Name of the venue: Rogers Place
+Venue location: Edmonton, Canada
+Date of the event: 04/22/2020
+---------------------------------------
+Name of the venue: Sasktel Centre
+Venue location: Saskatoon, Canada
+Date of the event: 04/25/2020
+---------------------------------------
+Name of the venue: Bell MTS Place
+Venue location: Winnipeg, Canada
+Date of the event: 04/27/2020
+---------------------------------------
+Name of the venue: O2 Arena
+Venue location: Prague, Czech Republic
+Date of the event: 05/21/2020
+---------------------------------------
+Name of the venue: Atlas Arena
+Venue location: Łódź, Poland
+Date of the event: 05/23/2020
+---------------------------------------
+Name of the venue: Tauron Arena Krakow
+Venue location: Kraków, Poland
+Date of the event: 05/25/2020
+---------------------------------------
+Name of the venue: Sportpaleis
+Venue location: Merksem, Belgium
+Date of the event: 05/28/2020
+---------------------------------------
+Name of the venue: Sportpaleis
+Venue location: Merksem, Belgium
+Date of the event: 05/30/2020
+---------------------------------------
+Name of the venue: Hallenstadion
+Venue location: Zürich, Switzerland
+Date of the event: 06/02/2020
+---------------------------------------
+Name of the venue: Hallenstadion
+Venue location: Zürich, Switzerland
+Date of the event: 06/03/2020
+---------------------------------------
+Name of the venue: ARENA ZAGREB
+Venue location: Zagreb, Croatia
+Date of the event: 06/05/2020
+---------------------------------------
+Name of the venue: Papp Laszlo Arena
+Venue location: Budapest, Hungary
+Date of the event: 06/07/2020
+---------------------------------------
+Name of the venue: Ziggo Dome
+Venue location: Amsterdam Zuidoost, Netherlands
+Date of the event: 06/10/2020
+---------------------------------------
+Name of the venue: Ziggo Dome
+Venue location: Amsterdam Zuidoost, Netherlands
+Date of the event: 06/12/2020
+---------------------------------------
+Name of the venue: Ziggo Dome
+Venue location: Amsterdam Zuidoost, Netherlands
+Date of the event: 06/13/2020
+---------------------------------------
+Name of the venue: Wiener Stadthalle - Halle D
+Venue location: Vienna, Austria
+Date of the event: 06/15/2020
+---------------------------------------
+Name of the venue: Olympiahalle
+Venue location: Munich, Germany
+Date of the event: 06/17/2020
+---------------------------------------
+Name of the venue: SAP Arena
+Venue location: Mannheim, Germany
+Date of the event: 06/19/2020
+---------------------------------------
+Name of the venue: Lanxess Arena
+Venue location: Cologne, Germany
+Date of the event: 06/21/2020
+---------------------------------------
+Name of the venue: Barclaycard Arena Hamburg
+Venue location: Hamburg, Germany
+Date of the event: 06/22/2020
+---------------------------------------
+Name of the venue: PARIS LA DEFENSE ARENA
+Venue location: Nanterre, France
+Date of the event: 06/26/2020
+---------------------------------------
+Name of the venue: PARIS LA DEFENSE ARENA
+Venue location: Nanterre, France
+Date of the event: 06/27/2020
+---------------------------------------
+Name of the venue: PARIS LA DEFENSE ARENA
+Venue location: Nanterre, France
+Date of the event: 06/30/2020
+---------------------------------------
+Name of the venue: PARIS LA DEFENSE ARENA
+Venue location: Nanterre, France
+Date of the event: 07/01/2020
+---------------------------------------
+Name of the venue: PARIS LA DEFENSE ARENA
+Venue location: Nanterre, France
+Date of the event: 07/03/2020
+---------------------------------------
+Name of the venue: PARIS LA DEFENSE ARENA
+Venue location: Nanterre, France
+Date of the event: 07/04/2020
+---------------------------------------
+Name of the venue: Plaine De L'asse
+Venue location: Noyon, France
+Date of the event: 07/20/2020
+---------------------------------------
+Name of the venue: Waldbühne Berlin
+Venue location: Berlin, Germany
+Date of the event: 07/22/2020
+---------------------------------------
+Name of the venue: Mura di Lucca - Viale Carducci
+Venue location: Lucca, Italy
+Date of the event: 07/25/2020
+---------------------------------------
+Name of the venue: National Stadium Bukarest
+Venue location: Bucharest, Romania
+Date of the event: 07/29/2020
+---------------------------------------
+Name of the venue: Hartwall Arena
+Venue location: Helsinki, Finland
+Date of the event: 08/24/2020
+---------------------------------------
+Name of the venue: Hartwall Arena
+Venue location: Helsinki, Finland
+Date of the event: 08/25/2020
+---------------------------------------
+Name of the venue: Telenor Arena
+Venue location: Oslo, Norway
+Date of the event: 08/28/2020
+---------------------------------------
+Name of the venue: Telenor Arena
+Venue location: Oslo, Norway
+Date of the event: 08/29/2020
+---------------------------------------
+Name of the venue: Royal Arena
+Venue location: Copenhagen, Denmark
+Date of the event: 08/31/2020
+---------------------------------------
+Name of the venue: Royal Arena
+Venue location: Copenhagen, Denmark
+Date of the event: 09/01/2020
+---------------------------------------
+Name of the venue: Manchester Arena
+Venue location: Manchester, United Kingdom
+Date of the event: 09/04/2020
+---------------------------------------
+Name of the venue: Manchester Arena
+Venue location: Manchester, United Kingdom
+Date of the event: 09/05/2020
+---------------------------------------
+Name of the venue: Arena Birmingham
+Venue location: Birmingham, United Kingdom
+Date of the event: 09/08/2020
+---------------------------------------
+Name of the venue: Arena Birmingham
+Venue location: Birmingham, United Kingdom
+Date of the event: 09/09/2020
+---------------------------------------
+Name of the venue: The SSE Hydro
+Venue location: Glasgow, United Kingdom
+Date of the event: 09/11/2020
+---------------------------------------
+Name of the venue: The SSE Hydro
+Venue location: Glasgow, United Kingdom
+Date of the event: 09/12/2020
+---------------------------------------
+Name of the venue: 3Arena
+Venue location: Dublin, Ireland
+Date of the event: 09/14/2020
+---------------------------------------
+Name of the venue: 3Arena
+Venue location: Dublin, Ireland
+Date of the event: 09/15/2020
+---------------------------------------
+Name of the venue: The O2
+Venue location: London, United Kingdom
+Date of the event: 09/17/2020
+---------------------------------------
+Name of the venue: The O2
+Venue location: London, United Kingdom
+Date of the event: 09/18/2020
+---------------------------------------
+***************************************
+Band: INCEPTION
+---------------------------------------
+
+-----------------------------------------------------------------------------------------------                    
+Title of the movie: Inception
+Year the movie came out: 2010
+IMDB Rating of the movie: 8.8
+Rotten Tomatoes Rating of the movie: 87%
+Country where the movie was produced: USA, UK
+Language of the movie: English, Japanese, French
+Plot of the movie: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.
+Actors in the movie: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy
+-----------------------------------------------------------------------------------------------
