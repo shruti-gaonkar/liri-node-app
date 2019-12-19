@@ -46,55 +46,6 @@ inquirer.prompt([
 
 function Search(keyword) {
     this.keyword = keyword;
-
-
-
-    this.getSong = function () {
-        var spotify = new Spotify(keys.spotify);
-        this.keyword = (this.keyword) ? this.keyword : "The Sign,Ace of Base";
-        spotify.search({ type: 'track,artist', query: this.keyword, limit: 10 }).then(function (response) {
-            //console.log(response.tracks.items);
-            let output, output1;
-            output1 = "\n***************************************\n";
-            output1 += "Band: " + keyword + "\n";
-            output1 += "---------------------------------------\n";
-
-            let tracksResp = response.tracks.items;
-            //console.log(tracksResp[0].artists);
-            for (var i = 0; i < tracksResp.length; i++) {
-                let artistsResp = tracksResp[i].artists;
-                output = "\nArtists:";
-                for (var j = 0; j < artistsResp.length; j++) {
-                    output += `\n${artistsResp[j].name}`;
-                }
-                output += `\nSong: ${tracksResp[i].name}
-Preview link: ${(tracksResp[i].preview_url) ? tracksResp[i].preview_url : '-'}
-Album: ${tracksResp[i].album.name}
-------------------------------------------------------------------------`;
-                output1 += output;
-                console.log(output);
-                writeFile(output1);
-
-            }
-        }).catch(function (err) {
-            console.log(err);
-        });
-    };
-    this.askLiri = function () {
-        let dataArr = readFile("random.txt");
-        //console.log(dataArr);
-        this.keyword = dataArr[1];
-        var searchCat = dataArr[0];
-        //console.log(dataArr[0]);
-        if (searchCat == "Band/Artist") {
-            this.getBand();
-        } else if (searchCat == "Song") {
-            this.getSong();
-        } else if (searchCat == "Movie") {
-            this.getMovie();
-        }
-    }
-
 };
 
 
@@ -138,6 +89,38 @@ Date of the event: ${eventDate}
     });
 };
 
+Search.prototype.getSong = function () {
+    var spotify = new Spotify(keys.spotify);
+    let keyword = (this.keyword) ? this.keyword : "The Sign,Ace of Base";
+    spotify.search({ type: 'track,artist', query: keyword, limit: 10 }).then(function (response) {
+        //console.log(response.tracks.items);
+        let output, output1;
+        output1 = "\n***************************************\n";
+        output1 += "Song: " + keyword + "\n";
+        output1 += "---------------------------------------\n";
+
+        let tracksResp = response.tracks.items;
+        //console.log(tracksResp[0].artists);
+        for (var i = 0; i < tracksResp.length; i++) {
+            let artistsResp = tracksResp[i].artists;
+            output = "\nArtists:";
+            for (var j = 0; j < artistsResp.length; j++) {
+                output += `\n${artistsResp[j].name}`;
+            }
+            output += `\nSong: ${tracksResp[i].name}
+Preview link: ${(tracksResp[i].preview_url) ? tracksResp[i].preview_url : '-'}
+Album: ${tracksResp[i].album.name}
+------------------------------------------------------------------------`;
+            output1 += output;
+            console.log(output);
+            writeFile(output1);
+
+        }
+    }).catch(function (err) {
+        console.log(err);
+    });
+};
+
 Search.prototype.getMovie = function () {
     let keyword = (this.keyword) ? this.keyword : "Mr. Nobody";
     var url = "https://www.omdbapi.com/?t=" + keyword + "&y=&plot=short&apikey=trilogy";
@@ -168,6 +151,19 @@ Actors in the movie: ${movieResp.Actors}
             console.log("\nThere was an error processing the request");
         });
 };
+
+Search.prototype.askLiri = function () {
+    let dataArr = readFile("random.txt");
+    let searchCat = dataArr[0];
+    this.keyword = dataArr[1];
+    if (searchCat == "Band/Artist") {
+        this.getBand();
+    } else if (searchCat == "Song") {
+        this.getSong();
+    } else if (searchCat == "Movie") {
+        this.getMovie();
+    }
+}
 
 function readFile(filename) {
     try {
