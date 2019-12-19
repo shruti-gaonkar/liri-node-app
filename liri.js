@@ -1,5 +1,6 @@
 require("dotenv").config();
 
+// include all the npm packages 
 var Spotify = require("node-spotify-api");
 var keys = require("./js/keys");
 var inquirer = require("inquirer");
@@ -7,6 +8,7 @@ var axios = require("axios");
 var moment = require('moment');
 var fs = require("fs");
 
+// prompt to select from the list of options
 inquirer.prompt([
 
     {
@@ -44,11 +46,16 @@ inquirer.prompt([
     ])
 });
 
+
+/**
+ * constructor to search the data
+ * @param {string} keyword 
+ */
 function Search(keyword) {
     this.keyword = keyword;
 };
 
-
+// creates the getBand method and applies it to all search objects
 Search.prototype.getBand = function () {
     let keyword = this.keyword;
     var url = "https://rest.bandsintown.com/artists/" + keyword + "/events?app_id=codingbootcamp";
@@ -89,18 +96,17 @@ Date of the event: ${eventDate}
     });
 };
 
+// creates the getSong method and applies it to all search objects
 Search.prototype.getSong = function () {
     var spotify = new Spotify(keys.spotify);
     let keyword = (this.keyword) ? this.keyword : "The Sign,Ace of Base";
     spotify.search({ type: 'track,artist', query: keyword, limit: 10 }).then(function (response) {
-        //console.log(response.tracks.items);
         let output, output1;
         output1 = "\n***************************************\n";
         output1 += "Song: " + keyword + "\n";
         output1 += "---------------------------------------\n";
 
         let tracksResp = response.tracks.items;
-        //console.log(tracksResp[0].artists);
         for (var i = 0; i < tracksResp.length; i++) {
             let artistsResp = tracksResp[i].artists;
             output = "\nArtists:";
@@ -120,6 +126,7 @@ Album: ${tracksResp[i].album.name}
     });
 };
 
+// creates the getMovie method and applies it to all search objects
 Search.prototype.getMovie = function () {
     let keyword = (this.keyword) ? this.keyword : "Mr. Nobody";
     var url = "https://www.omdbapi.com/?t=" + keyword + "&y=&plot=short&apikey=trilogy";
@@ -150,6 +157,7 @@ Actors in the movie: ${movieResp.Actors}
         });
 };
 
+// creates the askLiri method and applies it to all search objects
 Search.prototype.askLiri = function () {
     let dataArr = readFile("random.txt");
     let searchCat = dataArr[0];
@@ -163,6 +171,8 @@ Search.prototype.askLiri = function () {
     }
 }
 
+
+// function to read file
 function readFile(filename) {
     try {
         const data = fs.readFileSync(filename, 'utf8');
@@ -176,6 +186,7 @@ function readFile(filename) {
     }
 }
 
+// function to write to a file and append data everytime it is called
 function writeFile(text) {
     fs.appendFile("log.txt", text, function (err) {
 
@@ -183,9 +194,5 @@ function writeFile(text) {
         if (err) {
             return console.log(err);
         }
-
-        // Otherwise, it will print: "movies.txt was updated!"
-        //console.log("movies.txt was updated!");
-
     });
 }
