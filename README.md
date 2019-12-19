@@ -57,6 +57,6 @@ LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a co
 
     * Gif link: https://media.giphy.com/media/hScahtcArcmOZHV4iI/giphy.gif
 
-7. In addition to logging the data to the terminal/bash window, the app outputs the data to a `log.txt` file. For each command, it appends the output to this file.     
+7. In addition to logging the data to the terminal/bash window, the app outputs the data to a `log.txt` file. For each command, it appends the output to this file.
 
-    
+
