@@ -113,9 +113,8 @@ Album: ${tracksResp[i].album.name}
 ------------------------------------------------------------------------`;
             output1 += output;
             console.log(output);
-            writeFile(output1);
-
         }
+        writeFile(output1);
     }).catch(function (err) {
         console.log(err);
     });
@@ -126,8 +125,7 @@ Search.prototype.getMovie = function () {
     var url = "https://www.omdbapi.com/?t=" + keyword + "&y=&plot=short&apikey=trilogy";
     axios.get(url).then(
         function (response) {
-            var movieResp = response.data;
-            //console.log(movieArr);
+            let movieResp = response.data;
             let output, output1;
             output1 = "\n***************************************\n";
             output1 += "Movie: " + keyword + "\n";
