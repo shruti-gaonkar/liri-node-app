@@ -136,18 +136,26 @@ Actors in the movie: ${movieResp.Actors}
         this.keyword = (this.keyword) ? this.keyword : "The Sign,Ace of Base";
         spotify.search({ type: 'track,artist', query: this.keyword, limit: 10 }).then(function (response) {
             //console.log(response.tracks.items);
+            let output, output1;
+            output1 = "\n***************************************\n";
+            output1 += "Band: " + keyword + "\n";
+            output1 += "---------------------------------------\n";
+
             let tracksResp = response.tracks.items;
             //console.log(tracksResp[0].artists);
             for (var i = 0; i < tracksResp.length; i++) {
                 let artistsResp = tracksResp[i].artists;
-                console.log("\nArtists:");
+                output = "\nArtists:";
                 for (var j = 0; j < artistsResp.length; j++) {
-                    console.log(`${artistsResp[j].name}`);
+                    output += `\n${artistsResp[j].name}`;
                 }
-                console.log(`\nSong: ${tracksResp[i].name}
+                output += `\nSong: ${tracksResp[i].name}
 Preview link: ${(tracksResp[i].preview_url) ? tracksResp[i].preview_url : '-'}
 Album: ${tracksResp[i].album.name}
-------------------------------------------------------------------------`);
+------------------------------------------------------------------------`;
+                output1 += output;
+                console.log(output);
+                writeFile(output1);
 
             }
         }).catch(function (err) {
