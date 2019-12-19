@@ -581,3 +581,839 @@ Name of the venue: Lover Fest East
 Venue location: Foxborough, United States
 Date of the event: 08/01/2020
 ---------------------------------------
+***************************************
+Band: jonas brothers
+---------------------------------------
+
+Name of the venue: State Farm Arena
+Venue location: Atlanta, United States
+Date of the event: 12/20/2019
+---------------------------------------
+Name of the venue: BB&T Center
+Venue location: Sunrise, United States
+Date of the event: 12/22/2019
+---------------------------------------
+Name of the venue: The Cove Atlantis
+Venue location: Nassau, Bahamas
+Date of the event: 12/30/2019
+---------------------------------------
+Name of the venue: Fontainebleau Miami Beach
+Venue location: Miami Beach, United States
+Date of the event: 12/31/2019
+---------------------------------------
+Name of the venue: Arena Birmingham
+Venue location: Birmingham, United Kingdom
+Date of the event: 01/29/2020
+---------------------------------------
+Name of the venue: 3Arena
+Venue location: Dublin, Ireland
+Date of the event: 01/31/2020
+---------------------------------------
+Name of the venue: The O2
+Venue location: London, United Kingdom
+Date of the event: 02/02/2020
+---------------------------------------
+Name of the venue: The SSE Arena Wembley
+Venue location: London, United Kingdom
+Date of the event: 02/03/2020
+---------------------------------------
+Name of the venue: The SSE Hydro
+Venue location: Glasgow, United Kingdom
+Date of the event: 02/05/2020
+---------------------------------------
+Name of the venue: Manchester Arena
+Venue location: Manchester, United Kingdom
+Date of the event: 02/06/2020
+---------------------------------------
+Name of the venue: Lotto Arena
+Venue location: Antwerpen, Belgium
+Date of the event: 02/08/2020
+---------------------------------------
+Name of the venue: Mercedes-Benz Arena
+Venue location: Berlin, Germany
+Date of the event: 02/10/2020
+---------------------------------------
+Name of the venue: Lanxess Arena
+Venue location: Cologne, Germany
+Date of the event: 02/11/2020
+---------------------------------------
+Name of the venue: Hallenstadion
+Venue location: Zürich, Switzerland
+Date of the event: 02/13/2020
+---------------------------------------
+Name of the venue: Mediolanum Forum
+Venue location: Milan, Italy
+Date of the event: 02/14/2020
+---------------------------------------
+Name of the venue: Wizin Center
+Venue location: Madrid, Spain
+Date of the event: 02/16/2020
+---------------------------------------
+Name of the venue: Palau Sant Jordi
+Venue location: Barcelona, Spain
+Date of the event: 02/17/2020
+---------------------------------------
+Name of the venue: SUD DE FRANCE ARENA
+Venue location: Pérols, France
+Date of the event: 02/18/2020
+---------------------------------------
+Name of the venue: Ziggo Dome
+Venue location: Amsterdam Zuidoost, Netherlands
+Date of the event: 02/20/2020
+---------------------------------------
+Name of the venue: Accorhotels Arena
+Venue location: Paris, France
+Date of the event: 02/22/2020
+---------------------------------------
+***************************************
+Band: mariah carey
+---------------------------------------
+
+Name of the venue: The Colosseum at Caesars Palace
+Venue location: Las Vegas, United States
+Date of the event: 02/14/2020
+---------------------------------------
+Name of the venue: The Colosseum at Caesars Palace
+Venue location: Las Vegas, United States
+Date of the event: 02/15/2020
+---------------------------------------
+Name of the venue: The Colosseum at Caesars Palace
+Venue location: Las Vegas, United States
+Date of the event: 02/19/2020
+---------------------------------------
+Name of the venue: The Colosseum at Caesars Palace
+Venue location: Las Vegas, United States
+Date of the event: 02/21/2020
+---------------------------------------
+Name of the venue: The Colosseum at Caesars Palace
+Venue location: Las Vegas, United States
+Date of the event: 02/22/2020
+---------------------------------------
+Name of the venue: The Colosseum at Caesars Palace
+Venue location: Las Vegas, United States
+Date of the event: 02/26/2020
+---------------------------------------
+Name of the venue: The Colosseum at Caesars Palace
+Venue location: Las Vegas, United States
+Date of the event: 02/28/2020
+---------------------------------------
+Name of the venue: The Colosseum at Caesars Palace
+Venue location: Las Vegas, United States
+Date of the event: 02/29/2020
+---------------------------------------
+Name of the venue: Neal S. Blaisdell Center
+Venue location: Honolulu, United States
+Date of the event: 03/10/2020
+---------------------------------------
+***************************************
+Band: Jonas Brothers
+---------------------------------------
+
+Name of the venue: Allstate Arena
+Venue location: Rosemont, United States
+Date of the event: 12/18/2019
+---------------------------------------
+Name of the venue: State Farm Arena
+Venue location: Atlanta, United States
+Date of the event: 12/20/2019
+---------------------------------------
+Name of the venue: BB&T Center
+Venue location: Sunrise, United States
+Date of the event: 12/22/2019
+---------------------------------------
+Name of the venue: The Cove Atlantis
+Venue location: Nassau, Bahamas
+Date of the event: 12/30/2019
+---------------------------------------
+Name of the venue: Fontainebleau Miami Beach
+Venue location: Miami Beach, United States
+Date of the event: 12/31/2019
+---------------------------------------
+Name of the venue: Arena Birmingham
+Venue location: Birmingham, United Kingdom
+Date of the event: 01/29/2020
+---------------------------------------
+Name of the venue: 3Arena
+Venue location: Dublin, Ireland
+Date of the event: 01/31/2020
+---------------------------------------
+Name of the venue: The O2
+Venue location: London, United Kingdom
+Date of the event: 02/02/2020
+---------------------------------------
+Name of the venue: The SSE Arena Wembley
+Venue location: London, United Kingdom
+Date of the event: 02/03/2020
+---------------------------------------
+Name of the venue: The SSE Hydro
+Venue location: Glasgow, United Kingdom
+Date of the event: 02/05/2020
+---------------------------------------
+Name of the venue: Manchester Arena
+Venue location: Manchester, United Kingdom
+Date of the event: 02/06/2020
+---------------------------------------
+Name of the venue: Lotto Arena
+Venue location: Antwerpen, Belgium
+Date of the event: 02/08/2020
+---------------------------------------
+Name of the venue: Mercedes-Benz Arena
+Venue location: Berlin, Germany
+Date of the event: 02/10/2020
+---------------------------------------
+Name of the venue: Lanxess Arena
+Venue location: Cologne, Germany
+Date of the event: 02/11/2020
+---------------------------------------
+Name of the venue: Hallenstadion
+Venue location: Zürich, Switzerland
+Date of the event: 02/13/2020
+---------------------------------------
+Name of the venue: Mediolanum Forum
+Venue location: Milan, Italy
+Date of the event: 02/14/2020
+---------------------------------------
+Name of the venue: Wizin Center
+Venue location: Madrid, Spain
+Date of the event: 02/16/2020
+---------------------------------------
+Name of the venue: Palau Sant Jordi
+Venue location: Barcelona, Spain
+Date of the event: 02/17/2020
+---------------------------------------
+Name of the venue: SUD DE FRANCE ARENA
+Venue location: Pérols, France
+Date of the event: 02/18/2020
+---------------------------------------
+Name of the venue: Ziggo Dome
+Venue location: Amsterdam Zuidoost, Netherlands
+Date of the event: 02/20/2020
+---------------------------------------
+Name of the venue: Accorhotels Arena
+Venue location: Paris, France
+Date of the event: 02/22/2020
+---------------------------------------
+***************************************
+Song: The Sign,Ace of Base
+---------------------------------------
+
+Artists:
+Pantones
+Song: The Sign - Ace Of Base Cover
+Preview link: https://p.scdn.co/mp3-preview/b776967c99853086b23b79ae3c83db64a4b2cfda?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: ¿Quién Quiere Primavera ?
+------------------------------------------------------------------------
+Artists:
+MARNET
+Song: Ace of Base Medley: Beautiful Life / Cruel Summer / The Sign / Lucky Love
+Preview link: https://p.scdn.co/mp3-preview/9b0b05385408e704642001108e3dded01657a29a?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Dag & Nag
+------------------------------------------------------------------------
+Artists:
+Karaoke Box
+Song: I Saw the Sign (Karaoke Playback with Lead Vocals) [Made Famous by Ace of Base]
+Preview link: https://p.scdn.co/mp3-preview/56ce61443e2a6475875fb9c5ab0bacf46a2e217f?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Karaoke Box: Reggae Greatest Hits
+------------------------------------------------------------------------
+Artists:
+The Karaoke Machine
+Song: The Sign (Ace of Base Karaoke Tribute)
+Preview link: https://p.scdn.co/mp3-preview/3edf188f505cd3e44d0864baf5d7984c8b25b6a4?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: The Karaoke Machine Presents - Karaoke Hot 100, Vol. 8
+------------------------------------------------------------------------
+Artists:
+Ameritz Audio Karaoke
+Song: The Sign (In The Style Of Ace Of Base)
+Preview link: https://p.scdn.co/mp3-preview/7d778fa88669bb432bed31b871770457d2c69c23?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Karaoke - Pop - 1980's Vol 1
+------------------------------------------------------------------------
+Artists:
+Alta Marea
+Song: The Sign - Originally Performed By Ace Of Base
+Preview link: https://p.scdn.co/mp3-preview/82b9848cd90f256bb5c67b77ea425b5419b69b69?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Basi Musicali Hits Vol.8 (Backing Tracks Altamarea)
+------------------------------------------------------------------------
+Artists:
+The Karaoke Channel
+Song: The Sign (In The Style of Ace Of Base) - Karaoke
+Preview link: https://p.scdn.co/mp3-preview/7090ddc04283755a983b1e4cde360663c222dc92?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Female Party - Vol.1- Karaoke
+------------------------------------------------------------------------
+Artists:
+The Karaoke Crew
+Song: The Sign (As Made Famous By Ace of Base)
+Preview link: https://p.scdn.co/mp3-preview/bf8a23ccd1a586e257521afbd9e28a281edb5446?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Drew's Famous # 1 Karaoke Hits: 90's Party Hits Vol. 2
+------------------------------------------------------------------------
+Artists:
+The Karaoke Crew
+Song: The Sign (As Made Famous by Ace of Base)
+Preview link: https://p.scdn.co/mp3-preview/bf8a23ccd1a586e257521afbd9e28a281edb5446?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Drew's Famous # 1 Karaoke Hits: Sing the Hits of 1994
+------------------------------------------------------------------------
+Artists:
+The Karaoke Crew
+Song: Sign, The (As Made Famous By Ace of Base)
+Preview link: https://p.scdn.co/mp3-preview/bf8a23ccd1a586e257521afbd9e28a281edb5446?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Drew's Famous # 1 Karaoke Hits: Sing like Ace of Base
+------------------------------------------------------------------------
+***************************************
+Song: summer of 69,Bryan Adams
+---------------------------------------
+
+Artists:
+Workout Remix Factory
+Song: Summer of 69 (As Made Famous by Bryan Adams) (Energy Remix + 140 BPM)
+Preview link: https://p.scdn.co/mp3-preview/f5eb0a58eaf14106d22f7102753c1ded77d9ed07?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Best of 80s + 90s Hits Workout – 50 Hits DJ Remixed
+------------------------------------------------------------------------
+Artists:
+Acoustified Hits
+Song: Summer of 69 (Acoustic Version) [Bryan Adams Cover]
+Preview link: https://p.scdn.co/mp3-preview/09593fe4e6ccfbdc72940c4852c26ca4126e9446?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Acoustified Hits, Vol. 3
+------------------------------------------------------------------------
+Artists:
+Twilight Falls
+Song: Summer Of '69 (Made Famous by Bryan Adams)
+Preview link: https://p.scdn.co/mp3-preview/45c7ec80efd1369f4bf31031fd8ea2038a0745a6?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Emo Punk Goes Classic Rock
+------------------------------------------------------------------------
+Artists:
+Michael Pan
+Song: Bryan Adams - Summer Of 69
+Preview link: https://p.scdn.co/mp3-preview/f2c84a6898a36660bcf5ddfb4d8e4e1ebc6dd591?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Pop-Splits - Winter - 21 Weihnachtliche Und Winterliche Geschichten Zu Hits
+------------------------------------------------------------------------
+Artists:
+Summer Fantasy Band
+Song: Summer Of 69 (A Tribute To Bryan Adams)
+Preview link: https://p.scdn.co/mp3-preview/1565a0e2c69453974f8ee99086d6e6fd123d6359?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: The Hits Of Summer
+------------------------------------------------------------------------
+Artists:
+B the Star
+Song: Summer of '69 - Originally Performed By Bryan Adams
+Preview link: https://p.scdn.co/mp3-preview/99482a0063c280d89460d7bc38c2af6d34ffd87d?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: 40 Super Hits Karaoke: Easy Rock
+------------------------------------------------------------------------
+Artists:
+The Rock Heroes
+Song: Summer of '69 (Made Famous by Bryan Adams)
+Preview link: https://p.scdn.co/mp3-preview/9ca24adea51591176ec0bad4d9bf8bd564062d2f?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: A Salute To Bryan Adams
+------------------------------------------------------------------------
+Artists:
+Sing Karaoke Sing
+Song: Summer of '69 - Originally Performed By Bryan Adams
+Preview link: https://p.scdn.co/mp3-preview/9d6ccfc9840028b5e2a387b965153c310d3af4b0?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Rock Anthems Karaoke
+------------------------------------------------------------------------
+Artists:
+Top 40 Hits
+Song: Summer of 69 (Acoustic Version) [Bryan Adams Cover]
+Preview link: https://p.scdn.co/mp3-preview/09593fe4e6ccfbdc72940c4852c26ca4126e9446?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Your Favorite Hits Unplugged and Acoustic, Vol. 1
+------------------------------------------------------------------------
+Artists:
+Acoustic Cover Hits
+Song: Summer of 69 (Acoustic Version) [Bryan Adams Cover]
+Preview link: https://p.scdn.co/mp3-preview/09593fe4e6ccfbdc72940c4852c26ca4126e9446?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Your Favorite Hits Unplugged and Acoustic, Vol. 1
+------------------------------------------------------------------------
+***************************************
+Song: Summer of 69,Bryan Adams
+---------------------------------------
+
+Artists:
+Workout Remix Factory
+Song: Summer of 69 (As Made Famous by Bryan Adams) (Energy Remix + 140 BPM)
+Preview link: https://p.scdn.co/mp3-preview/f5eb0a58eaf14106d22f7102753c1ded77d9ed07?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Best of 80s + 90s Hits Workout – 50 Hits DJ Remixed
+------------------------------------------------------------------------
+Artists:
+Acoustified Hits
+Song: Summer of 69 (Acoustic Version) [Bryan Adams Cover]
+Preview link: https://p.scdn.co/mp3-preview/09593fe4e6ccfbdc72940c4852c26ca4126e9446?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Acoustified Hits, Vol. 3
+------------------------------------------------------------------------
+Artists:
+Twilight Falls
+Song: Summer Of '69 (Made Famous by Bryan Adams)
+Preview link: https://p.scdn.co/mp3-preview/45c7ec80efd1369f4bf31031fd8ea2038a0745a6?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Emo Punk Goes Classic Rock
+------------------------------------------------------------------------
+Artists:
+Michael Pan
+Song: Bryan Adams - Summer Of 69
+Preview link: https://p.scdn.co/mp3-preview/f2c84a6898a36660bcf5ddfb4d8e4e1ebc6dd591?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Pop-Splits - Winter - 21 Weihnachtliche Und Winterliche Geschichten Zu Hits
+------------------------------------------------------------------------
+Artists:
+Summer Fantasy Band
+Song: Summer Of 69 (A Tribute To Bryan Adams)
+Preview link: https://p.scdn.co/mp3-preview/1565a0e2c69453974f8ee99086d6e6fd123d6359?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: The Hits Of Summer
+------------------------------------------------------------------------
+Artists:
+B the Star
+Song: Summer of '69 - Originally Performed By Bryan Adams
+Preview link: https://p.scdn.co/mp3-preview/99482a0063c280d89460d7bc38c2af6d34ffd87d?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: 40 Super Hits Karaoke: Easy Rock
+------------------------------------------------------------------------
+Artists:
+The Rock Heroes
+Song: Summer of '69 (Made Famous by Bryan Adams)
+Preview link: https://p.scdn.co/mp3-preview/9ca24adea51591176ec0bad4d9bf8bd564062d2f?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: A Salute To Bryan Adams
+------------------------------------------------------------------------
+Artists:
+Sing Karaoke Sing
+Song: Summer of '69 - Originally Performed By Bryan Adams
+Preview link: https://p.scdn.co/mp3-preview/9d6ccfc9840028b5e2a387b965153c310d3af4b0?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Rock Anthems Karaoke
+------------------------------------------------------------------------
+Artists:
+Top 40 Hits
+Song: Summer of 69 (Acoustic Version) [Bryan Adams Cover]
+Preview link: https://p.scdn.co/mp3-preview/09593fe4e6ccfbdc72940c4852c26ca4126e9446?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Your Favorite Hits Unplugged and Acoustic, Vol. 1
+------------------------------------------------------------------------
+Artists:
+Acoustic Cover Hits
+Song: Summer of 69 (Acoustic Version) [Bryan Adams Cover]
+Preview link: https://p.scdn.co/mp3-preview/09593fe4e6ccfbdc72940c4852c26ca4126e9446?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Your Favorite Hits Unplugged and Acoustic, Vol. 1
+------------------------------------------------------------------------
+***************************************
+Song: All I want for christmas
+---------------------------------------
+
+Artists:
+Mariah Carey
+Song: All I Want for Christmas Is You
+Preview link: https://p.scdn.co/mp3-preview/ab4f06069148ef8510d8681164479601d4617bed?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Merry Christmas
+------------------------------------------------------------------------
+Artists:
+Liam Payne
+Song: All I Want (For Christmas)
+Preview link: -
+Album: All I Want (For Christmas)
+------------------------------------------------------------------------
+Artists:
+Nat King Cole Trio
+Song: All I Want For Christmas (Is My Two Front Teeth)
+Preview link: -
+Album: Christmas Classics
+------------------------------------------------------------------------
+Artists:
+Michael Bublé
+Song: All I Want for Christmas Is You
+Preview link: https://p.scdn.co/mp3-preview/1ad25319a4859f0ace327a313202d5639c31cb10?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Christmas (Deluxe Special Edition)
+------------------------------------------------------------------------
+Artists:
+Justin Bieber
+Mariah Carey
+Song: All I Want For Christmas Is You (SuperFestive!) Duet with Mariah Carey
+Preview link: -
+Album: Under The Mistletoe (Deluxe Edition)
+------------------------------------------------------------------------
+Artists:
+Michael Bublé
+Song: All I Want for Christmas Is You
+Preview link: https://p.scdn.co/mp3-preview/1ad25319a4859f0ace327a313202d5639c31cb10?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Christmas
+------------------------------------------------------------------------
+Artists:
+Mariah Carey
+Song: All I Want for Christmas Is You
+Preview link: https://p.scdn.co/mp3-preview/d487dc44a699a6ced4aa5f838c4265202fa503e0?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Merry Christmas (Deluxe Anniversary Edition)
+------------------------------------------------------------------------
+Artists:
+Clementine Duo
+Song: All I Want For Christmas Is You
+Preview link: https://p.scdn.co/mp3-preview/a0516ef2cbc134b60ee73691b480557bfedef6ed?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Christmas
+------------------------------------------------------------------------
+Artists:
+Milos Foreman
+Song: All I Want For Christmas Is You
+Preview link: https://p.scdn.co/mp3-preview/ce308e611f3bee473fa92835c7bc1f9ba9a7157d?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: All I Want For Christmas Is You
+------------------------------------------------------------------------
+Artists:
+Liam Payne
+Song: All I Want (For Christmas)
+Preview link: -
+Album: LP1
+------------------------------------------------------------------------
+***************************************
+Movie: Mr. Nobody
+---------------------------------------
+
+-----------------------------------------------------------------------------------------------                    
+Title of the movie: Mr. Nobody
+Year the movie came out: 2009
+IMDB Rating of the movie: 7.8
+Rotten Tomatoes Rating of the movie: 67%
+Country where the movie was produced: Belgium, Germany, Canada, France, USA, UK
+Language of the movie: English, Mohawk
+Plot of the movie: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors in the movie: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+-----------------------------------------------------------------------------------------------
+***************************************
+Movie: The Godfather
+---------------------------------------
+
+-----------------------------------------------------------------------------------------------                    
+Title of the movie: The Godfather
+Year the movie came out: 1972
+IMDB Rating of the movie: 9.2
+Rotten Tomatoes Rating of the movie: 98%
+Country where the movie was produced: USA
+Language of the movie: English, Italian, Latin
+Plot of the movie: The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.
+Actors in the movie: Marlon Brando, Al Pacino, James Caan, Richard S. Castellano
+-----------------------------------------------------------------------------------------------
+***************************************
+Song: Summer of 69,Bryan Adams
+---------------------------------------
+
+Artists:
+Workout Remix Factory
+Song: Summer of 69 (As Made Famous by Bryan Adams) (Energy Remix + 140 BPM)
+Preview link: https://p.scdn.co/mp3-preview/f5eb0a58eaf14106d22f7102753c1ded77d9ed07?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Best of 80s + 90s Hits Workout – 50 Hits DJ Remixed
+------------------------------------------------------------------------
+Artists:
+Acoustified Hits
+Song: Summer of 69 (Acoustic Version) [Bryan Adams Cover]
+Preview link: https://p.scdn.co/mp3-preview/09593fe4e6ccfbdc72940c4852c26ca4126e9446?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Acoustified Hits, Vol. 3
+------------------------------------------------------------------------
+Artists:
+Twilight Falls
+Song: Summer Of '69 (Made Famous by Bryan Adams)
+Preview link: https://p.scdn.co/mp3-preview/45c7ec80efd1369f4bf31031fd8ea2038a0745a6?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Emo Punk Goes Classic Rock
+------------------------------------------------------------------------
+Artists:
+Michael Pan
+Song: Bryan Adams - Summer Of 69
+Preview link: https://p.scdn.co/mp3-preview/f2c84a6898a36660bcf5ddfb4d8e4e1ebc6dd591?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Pop-Splits - Winter - 21 Weihnachtliche Und Winterliche Geschichten Zu Hits
+------------------------------------------------------------------------
+Artists:
+Summer Fantasy Band
+Song: Summer Of 69 (A Tribute To Bryan Adams)
+Preview link: https://p.scdn.co/mp3-preview/1565a0e2c69453974f8ee99086d6e6fd123d6359?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: The Hits Of Summer
+------------------------------------------------------------------------
+Artists:
+B the Star
+Song: Summer of '69 - Originally Performed By Bryan Adams
+Preview link: https://p.scdn.co/mp3-preview/99482a0063c280d89460d7bc38c2af6d34ffd87d?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: 40 Super Hits Karaoke: Easy Rock
+------------------------------------------------------------------------
+Artists:
+The Rock Heroes
+Song: Summer of '69 (Made Famous by Bryan Adams)
+Preview link: https://p.scdn.co/mp3-preview/9ca24adea51591176ec0bad4d9bf8bd564062d2f?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: A Salute To Bryan Adams
+------------------------------------------------------------------------
+Artists:
+Sing Karaoke Sing
+Song: Summer of '69 - Originally Performed By Bryan Adams
+Preview link: https://p.scdn.co/mp3-preview/9d6ccfc9840028b5e2a387b965153c310d3af4b0?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Rock Anthems Karaoke
+------------------------------------------------------------------------
+Artists:
+Top 40 Hits
+Song: Summer of 69 (Acoustic Version) [Bryan Adams Cover]
+Preview link: https://p.scdn.co/mp3-preview/09593fe4e6ccfbdc72940c4852c26ca4126e9446?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Your Favorite Hits Unplugged and Acoustic, Vol. 1
+------------------------------------------------------------------------
+Artists:
+Acoustic Cover Hits
+Song: Summer of 69 (Acoustic Version) [Bryan Adams Cover]
+Preview link: https://p.scdn.co/mp3-preview/09593fe4e6ccfbdc72940c4852c26ca4126e9446?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Your Favorite Hits Unplugged and Acoustic, Vol. 1
+------------------------------------------------------------------------
+***************************************
+Song: All I want For Christmas is You
+---------------------------------------
+
+Artists:
+Mariah Carey
+Song: All I Want for Christmas Is You
+Preview link: https://p.scdn.co/mp3-preview/ab4f06069148ef8510d8681164479601d4617bed?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Merry Christmas
+------------------------------------------------------------------------
+Artists:
+Michael Bublé
+Song: All I Want for Christmas Is You
+Preview link: https://p.scdn.co/mp3-preview/1ad25319a4859f0ace327a313202d5639c31cb10?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Christmas (Deluxe Special Edition)
+------------------------------------------------------------------------
+Artists:
+Justin Bieber
+Mariah Carey
+Song: All I Want For Christmas Is You (SuperFestive!) Duet with Mariah Carey
+Preview link: -
+Album: Under The Mistletoe (Deluxe Edition)
+------------------------------------------------------------------------
+Artists:
+Michael Bublé
+Song: All I Want for Christmas Is You
+Preview link: https://p.scdn.co/mp3-preview/1ad25319a4859f0ace327a313202d5639c31cb10?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Christmas
+------------------------------------------------------------------------
+Artists:
+Mariah Carey
+Song: All I Want for Christmas Is You
+Preview link: https://p.scdn.co/mp3-preview/d487dc44a699a6ced4aa5f838c4265202fa503e0?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Merry Christmas (Deluxe Anniversary Edition)
+------------------------------------------------------------------------
+Artists:
+Clementine Duo
+Song: All I Want For Christmas Is You
+Preview link: https://p.scdn.co/mp3-preview/a0516ef2cbc134b60ee73691b480557bfedef6ed?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Christmas
+------------------------------------------------------------------------
+Artists:
+Milos Foreman
+Song: All I Want For Christmas Is You
+Preview link: https://p.scdn.co/mp3-preview/ce308e611f3bee473fa92835c7bc1f9ba9a7157d?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: All I Want For Christmas Is You
+------------------------------------------------------------------------
+Artists:
+Mariah Carey
+Song: All I Want For Christmas Is You
+Preview link: -
+Album: Merry Christmas II You
+------------------------------------------------------------------------
+Artists:
+Kidz Bop Kids
+Song: All I Want For Christmas Is You - Spanish Version
+Preview link: -
+Album: All I Want For Christmas Is You (Spanish Version)
+------------------------------------------------------------------------
+Artists:
+LeAnn Rimes
+Song: All I Want For Christmas Is You
+Preview link: https://p.scdn.co/mp3-preview/b43a76203297f16843903f4e4d9269811f55d460?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: What A Wonderful World
+------------------------------------------------------------------------
+***************************************
+Song: The Sign,Ace of Base
+---------------------------------------
+
+Artists:
+Pantones
+Song: The Sign - Ace Of Base Cover
+Preview link: https://p.scdn.co/mp3-preview/b776967c99853086b23b79ae3c83db64a4b2cfda?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: ¿Quién Quiere Primavera ?
+------------------------------------------------------------------------
+Artists:
+MARNET
+Song: Ace of Base Medley: Beautiful Life / Cruel Summer / The Sign / Lucky Love
+Preview link: https://p.scdn.co/mp3-preview/9b0b05385408e704642001108e3dded01657a29a?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Dag & Nag
+------------------------------------------------------------------------
+Artists:
+Karaoke Box
+Song: I Saw the Sign (Karaoke Playback with Lead Vocals) [Made Famous by Ace of Base]
+Preview link: https://p.scdn.co/mp3-preview/56ce61443e2a6475875fb9c5ab0bacf46a2e217f?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Karaoke Box: Reggae Greatest Hits
+------------------------------------------------------------------------
+Artists:
+The Karaoke Machine
+Song: The Sign (Ace of Base Karaoke Tribute)
+Preview link: https://p.scdn.co/mp3-preview/3edf188f505cd3e44d0864baf5d7984c8b25b6a4?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: The Karaoke Machine Presents - Karaoke Hot 100, Vol. 8
+------------------------------------------------------------------------
+Artists:
+Ameritz Audio Karaoke
+Song: The Sign (In The Style Of Ace Of Base)
+Preview link: https://p.scdn.co/mp3-preview/7d778fa88669bb432bed31b871770457d2c69c23?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Karaoke - Pop - 1980's Vol 1
+------------------------------------------------------------------------
+Artists:
+Alta Marea
+Song: The Sign - Originally Performed By Ace Of Base
+Preview link: https://p.scdn.co/mp3-preview/82b9848cd90f256bb5c67b77ea425b5419b69b69?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Basi Musicali Hits Vol.8 (Backing Tracks Altamarea)
+------------------------------------------------------------------------
+Artists:
+The Karaoke Channel
+Song: The Sign (In The Style of Ace Of Base) - Karaoke
+Preview link: https://p.scdn.co/mp3-preview/7090ddc04283755a983b1e4cde360663c222dc92?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Female Party - Vol.1- Karaoke
+------------------------------------------------------------------------
+Artists:
+The Karaoke Crew
+Song: The Sign (As Made Famous By Ace of Base)
+Preview link: https://p.scdn.co/mp3-preview/bf8a23ccd1a586e257521afbd9e28a281edb5446?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Drew's Famous # 1 Karaoke Hits: 90's Party Hits Vol. 2
+------------------------------------------------------------------------
+Artists:
+The Karaoke Crew
+Song: The Sign (As Made Famous by Ace of Base)
+Preview link: https://p.scdn.co/mp3-preview/bf8a23ccd1a586e257521afbd9e28a281edb5446?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Drew's Famous # 1 Karaoke Hits: Sing the Hits of 1994
+------------------------------------------------------------------------
+Artists:
+The Karaoke Crew
+Song: Sign, The (As Made Famous By Ace of Base)
+Preview link: https://p.scdn.co/mp3-preview/bf8a23ccd1a586e257521afbd9e28a281edb5446?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Drew's Famous # 1 Karaoke Hits: Sing like Ace of Base
+------------------------------------------------------------------------
+***************************************
+Song: I Want it That Way
+---------------------------------------
+
+Artists:
+Backstreet Boys
+Song: I Want It That Way
+Preview link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: The Hits--Chapter One
+------------------------------------------------------------------------
+Artists:
+Backstreet Boys
+Song: I Want It That Way
+Preview link: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Millennium
+------------------------------------------------------------------------
+Artists:
+Mick Jensen
+Song: I Want It That Way
+Preview link: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: I Want It That Way
+------------------------------------------------------------------------
+Artists:
+Anthem Lights
+Song: I Want It That Way
+Preview link: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Covers Part IV
+------------------------------------------------------------------------
+Artists:
+"Weird Al" Yankovic
+Song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview link: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Poodle Hat
+------------------------------------------------------------------------
+Artists:
+Tyler and Mark
+Song: I Want It That Way
+Preview link: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Beautiful Dreams
+------------------------------------------------------------------------
+Artists:
+Dynamite Boy
+Song: I Want It That Way
+Preview link: -
+Album: Punk Goes Pop
+------------------------------------------------------------------------
+Artists:
+Backstreet Boys
+Song: I Want It That Way - Reimagined
+Preview link: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: I Want It That Way (Reimagined)
+------------------------------------------------------------------------
+Artists:
+Steel Panther
+Song: I Want It That Way
+Preview link: -
+Album: I Want It That Way
+------------------------------------------------------------------------
+Artists:
+Jess and Gabriel
+Song: I Want It That Way
+Preview link: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=e4741993cf3c4a2d934bd307af6f55ef
+Album: Under the Covers, Vol. 3
+------------------------------------------------------------------------
+***************************************
+Movie: The Hobbit
+---------------------------------------
+
+-----------------------------------------------------------------------------------------------                    
+Title of the movie: The Hobbit
+Year the movie came out: 1977
+IMDB Rating of the movie: 6.8
+Rotten Tomatoes Rating of the movie: 69%
+Country where the movie was produced: USA, Japan
+Language of the movie: English
+Plot of the movie: A homebody hobbit in Middle Earth gets talked into joining a quest with a group of dwarves to recover their treasure from a dragon.
+Actors in the movie: Orson Bean, Richard Boone, Hans Conried, John Huston
+-----------------------------------------------------------------------------------------------
+***************************************
+Band: Taylor Swift
+---------------------------------------
+
+Name of the venue: Capital One JamFest
+Venue location: Atlanta, United States
+Date of the event: 04/05/2020
+---------------------------------------
+Name of the venue: Werchter Boutique
+Venue location: Rotselaar, Belgium
+Date of the event: 06/20/2020
+---------------------------------------
+Name of the venue: Waldbühne Berlin
+Venue location: Berlin, Germany
+Date of the event: 06/24/2020
+---------------------------------------
+Name of the venue: Oslo Sommertid
+Venue location: Oslo, Norway
+Date of the event: 06/26/2020
+---------------------------------------
+Name of the venue: Glastonbury Festival 2020
+Venue location: Shepton Mallet, United Kingdom
+Date of the event: 06/28/2020
+---------------------------------------
+Name of the venue: Roskilde Festival
+Venue location: Roskilde, Denmark
+Date of the event: 07/01/2020
+---------------------------------------
+Name of the venue: Open’er Festival
+Venue location: Powiat Pucki, Poland
+Date of the event: 07/03/2020
+---------------------------------------
+Name of the venue: Festival de Nîmes
+Venue location: Nîmes, France
+Date of the event: 07/05/2020
+---------------------------------------
+Name of the venue: NOS Alive
+Venue location: Algés, Portugal
+Date of the event: 07/09/2020
+---------------------------------------
+Name of the venue: Hyde Park
+Venue location: London, United Kingdom
+Date of the event: 07/11/2020
+---------------------------------------
+Name of the venue: Allianz Parque
+Venue location: Sao Paulo, Brazil
+Date of the event: 07/18/2020
+---------------------------------------
+Name of the venue: Allianz Parque
+Venue location: Sao Paulo, Brazil
+Date of the event: 07/19/2020
+---------------------------------------
+Name of the venue: Lover Fest West
+Venue location: Los Angeles, United States
+Date of the event: 07/25/2020
+---------------------------------------
+Name of the venue: Lover Fest West
+Venue location: Los Angeles, United States
+Date of the event: 07/26/2020
+---------------------------------------
+Name of the venue: Lover Fest East
+Venue location: Foxborough, United States
+Date of the event: 07/31/2020
+---------------------------------------
+Name of the venue: Lover Fest East
+Venue location: Foxborough, United States
+Date of the event: 08/01/2020
+---------------------------------------

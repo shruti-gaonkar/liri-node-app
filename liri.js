@@ -24,11 +24,15 @@ inquirer.prompt([
         search.askLiri();
         return;
     }
+    var message = (searchCat == "Band/Artist") ? `Enter a ${searchCat} name to get all concert details` : `Enter a ${searchCat} name to get the details`;
+    if (searchCat == "Song") {
+        message = "Enter in this format: song name or song name,artist";
+    }
     inquirer.prompt([
         {
             type: "input",
             name: "term",
-            message: (`${searchCat}` == "Band/Artist") ? `Enter a ${searchCat} name to get all concert details` : `Enter a ${searchCat} name to get the details`,
+            message: message,
             validate: async (input) => {
                 if (!input && `${searchCat}` == "Band/Artist") {
                     return `${searchCat} name cannot be blank`;
