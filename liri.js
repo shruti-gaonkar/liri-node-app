@@ -26,9 +26,9 @@ inquirer.prompt([
         {
             type: "input",
             name: "term",
-            message: `Enter a ${searchCat} name to get all concert details`,
+            message: (`${searchCat}` == "Band/Artist") ? `Enter a ${searchCat} name to get all concert details` : `Enter a ${searchCat} name to get the details`,
             validate: async (input) => {
-                if (!input && `${searchCat}` == "Band") {
+                if (!input && `${searchCat}` == "Band/Artist") {
                     return `${searchCat} name cannot be blank`;
                 }
                 var search = new Search(input);
@@ -47,36 +47,7 @@ inquirer.prompt([
 function Search(keyword) {
     this.keyword = keyword;
 
-    this.getMovie = function () {
-        this.keyword = (this.keyword) ? this.keyword : "Mr. Nobody";
-        var url = "https://www.omdbapi.com/?t=" + this.keyword + "&y=&plot=short&apikey=trilogy";
-        axios.get(url).then(
-            function (response) {
-                var movieResp = response.data;
-                //console.log(movieArr);
-                let output, output1;
-                output1 = "\n***************************************\n";
-                output1 += "Band: " + keyword + "\n";
-                output1 += "---------------------------------------\n";
-                output = `
------------------------------------------------------------------------------------------------                    
-Title of the movie: ${movieResp.Title}
-Year the movie came out: ${movieResp.Year}
-IMDB Rating of the movie: ${movieResp.imdbRating}
-Rotten Tomatoes Rating of the movie: ${movieResp.Ratings[1].Value}
-Country where the movie was produced: ${movieResp.Country}
-Language of the movie: ${movieResp.Language}
-Plot of the movie: ${movieResp.Plot}
-Actors in the movie: ${movieResp.Actors}
------------------------------------------------------------------------------------------------`;
-                output1 += output;
-                console.log(output);
-                writeFile(output1);
-            }).catch(function (error) {
-                // Something happened in setting up the request that triggered an Error
-                console.log("\nThere was an error processing the request");
-            });
-    };
+
 
     this.getSong = function () {
         var spotify = new Spotify(keys.spotify);
@@ -165,6 +136,37 @@ Date of the event: ${eventDate}
             console.log("Error", error.message);
         }
     });
+};
+
+Search.prototype.getMovie = function () {
+    let keyword = (this.keyword) ? this.keyword : "Mr. Nobody";
+    var url = "https://www.omdbapi.com/?t=" + keyword + "&y=&plot=short&apikey=trilogy";
+    axios.get(url).then(
+        function (response) {
+            var movieResp = response.data;
+            //console.log(movieArr);
+            let output, output1;
+            output1 = "\n***************************************\n";
+            output1 += "Movie: " + keyword + "\n";
+            output1 += "---------------------------------------\n";
+            output = `
+-----------------------------------------------------------------------------------------------                    
+Title of the movie: ${movieResp.Title}
+Year the movie came out: ${movieResp.Year}
+IMDB Rating of the movie: ${movieResp.imdbRating}
+Rotten Tomatoes Rating of the movie: ${movieResp.Ratings[1].Value}
+Country where the movie was produced: ${movieResp.Country}
+Language of the movie: ${movieResp.Language}
+Plot of the movie: ${movieResp.Plot}
+Actors in the movie: ${movieResp.Actors}
+-----------------------------------------------------------------------------------------------`;
+            output1 += output;
+            console.log(output);
+            writeFile(output1);
+        }).catch(function (error) {
+            // Something happened in setting up the request that triggered an Error
+            console.log("\nThere was an error processing the request");
+        });
 };
 
 function readFile(filename) {
