@@ -107,8 +107,11 @@ Date of the event: ${eventDate}
             function (response) {
                 var movieResp = response.data;
                 //console.log(movieArr);
-
-                console.log(`
+                let output, output1;
+                output1 = "\n***************************************\n";
+                output1 += "Band: " + keyword + "\n";
+                output1 += "---------------------------------------\n";
+                output = `
 -----------------------------------------------------------------------------------------------                    
 Title of the movie: ${movieResp.Title}
 Year the movie came out: ${movieResp.Year}
@@ -118,8 +121,10 @@ Country where the movie was produced: ${movieResp.Country}
 Language of the movie: ${movieResp.Language}
 Plot of the movie: ${movieResp.Plot}
 Actors in the movie: ${movieResp.Actors}
------------------------------------------------------------------------------------------------`);
-
+-----------------------------------------------------------------------------------------------`;
+                output1 += output;
+                console.log(output);
+                writeFile(output1);
             }).catch(function (error) {
                 // Something happened in setting up the request that triggered an Error
                 console.log("\nThere was an error processing the request");
